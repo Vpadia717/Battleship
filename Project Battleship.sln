@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Battleship", "Assembly-CSharp.csproj", "{17178FC2-E2F7-D2C9-D80E-3A627ACBDA70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Battleship", "Assembly-CSharp-firstpass.csproj", "{BE229149-DF6A-D04E-E379-B1325C893AD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project Battleship", "Assembly-CSharp-Editor-firstpass.csproj", "{E926C3E2-A934-D6D6-33E2-83A8845C9D33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17178FC2-E2F7-D2C9-D80E-3A627ACBDA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17178FC2-E2F7-D2C9-D80E-3A627ACBDA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17178FC2-E2F7-D2C9-D80E-3A627ACBDA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17178FC2-E2F7-D2C9-D80E-3A627ACBDA70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE229149-DF6A-D04E-E379-B1325C893AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE229149-DF6A-D04E-E379-B1325C893AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE229149-DF6A-D04E-E379-B1325C893AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE229149-DF6A-D04E-E379-B1325C893AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E926C3E2-A934-D6D6-33E2-83A8845C9D33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E926C3E2-A934-D6D6-33E2-83A8845C9D33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E926C3E2-A934-D6D6-33E2-83A8845C9D33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E926C3E2-A934-D6D6-33E2-83A8845C9D33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
